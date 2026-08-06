@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C# Exercises
 
 Here are some exercises completed in January 2026, at the beginning of my C# course. Throughout the course, I've been learning C# fundamentals, object-oriented programming (classes, interfaces), and LINQ.
@@ -21,3 +22,6 @@ csharp-exercises/
 - C#
 - Object-Oriented Programming (Classes, Interfaces)
 - LINQ
+=======
+# C# - Exercises
+>>>>>>> 498a8e6269e5a0e961651479a2e99ef359e41f01
